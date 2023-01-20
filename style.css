@@ -44,7 +44,7 @@ html,body{
     background-color: black;
     max-width: 348px;
     /* max-height: 723px; */
-    height: 78vh;
+    height: 566px;
     border-radius: 18px;
     
 
@@ -64,7 +64,8 @@ html,body{
 .container1{
    
     background-color: rgb(29, 180, 182);
-    height: 100vh;
+        height: 132vh;
+    margin-left: -10px;
 }
 
 h1{
